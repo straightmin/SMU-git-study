@@ -4,3 +4,4 @@
 # 참여자 이름
 ---
 김성민(devsungmin)
+민종현(straightmin)
